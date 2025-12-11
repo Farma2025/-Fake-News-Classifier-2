@@ -1,6 +1,6 @@
 
 # 🚀 Live App  
-👉 **[Click here to open the Fake News Classifier](https://6xympk9jxmcpqbgj62ryarc.streamlit.app/)**  
+👉 **[Click here to open the Fake News Classifier]https://6xympk9jxmcpqbgj62ryarc.streamlit.app/**  
 
 # Fake News Detection with RNN and LSTM 🕵️‍♂️📰
 
