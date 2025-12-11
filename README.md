@@ -8,7 +8,9 @@ This project implements a sophisticated Fake News Detection system using two dee
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.x-red.svg)
 
-Try the [Streamlit app](https://fake-news-detection-with-rnn-and-lstm.streamlit.app/)! 
+### 🔗 Live Demo  
+👉 **[Click here to try the Fake News Classifier](https://6xympk9jxmcpqbgj62ryarc.streamlit.app/)**  
+
 
 ![alt text](image.png)
 ## 🚀 Features
