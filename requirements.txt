@@ -4,10 +4,10 @@ numpy
 pandas
 scikit-learn
 
-# Add PyTorch CPU version for Streamlit Cloud
-torch==2.2.0
-torchvision==0.17.0
-torchaudio==2.2.0
+# PyTorch (compatible with Python 3.13 on Streamlit Cloud)
+torch==2.9.1
 
-# Plotly (your app imports this)
+# Hugging Face + plotting
+transformers
 plotly
+matplotlib
