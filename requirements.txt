@@ -3,3 +3,11 @@ tensorflow
 numpy
 pandas
 scikit-learn
+
+# Add PyTorch CPU version for Streamlit Cloud
+torch==2.2.0
+torchvision==0.17.0
+torchaudio==2.2.0
+
+# Plotly (your app imports this)
+plotly
