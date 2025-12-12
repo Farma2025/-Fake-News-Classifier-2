@@ -1,5 +1,5 @@
 # 🚀 Live Demo  
-👉 **[Click here to try the Fake News Classifier](https://6xympk9jxmcpqbgj62ryarc.streamlit.app/)**
+https://6xympk9jxmcqbgj62ryarc.streamlit.app/
 
 
 # Fake News Detection with RNN and LSTM 🕵️‍♂️📰
